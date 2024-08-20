@@ -22,10 +22,9 @@ Then applies `nmfig()` to separate the sources.
 
 Separated sources will be saved as .wav files (estimatedSrc1.wav, etc.) in the directory `./results/`. File `nmfig.m` implements the NMFIG algorithm.
 
-### SLIDES
-
-Visit - [perception - inria.fr](https://team.inria.fr/perception/research/nmfig/)
-PDF - [HAL - inria.fr](https://inria.hal.science/hal-01253169v1/document)
+### PAPER
+ - Pdf: [HAL](https://inria.hal.science/hal-01253169v1/document)
+ - Slides: [perception - inria.fr](https://team.inria.fr/perception/research/nmfig/)
 
 
 
