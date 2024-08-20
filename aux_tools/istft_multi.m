@@ -3,6 +3,8 @@ function x=istft_multi(X,nsampl)
 % ISTFT_MULTI Multichannel inverse short-time Fourier transform (ISTFT)
 % using half-overlapping sine windows.
 %
+% FROM http://www.irisa.fr/metiss/ozerov/Software/multi_nmf_toolbox.zip
+%
 % x=istft_multi(X,nsampl)
 %
 % Inputs:
