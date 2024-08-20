@@ -1,6 +1,7 @@
 # NMFIG
 
-##  <a src="https://inria.hal.science/INRIA/public/HAL_logotype_rvb_fond_clair_fr_1.png" href="https://inria.hal.science/hal-01253169v1/document"> <img src="https://inria.hal.science/INRIA/public/HAL_logotype_rvb_fond_clair_fr_1.png" alt="hal" width="144" height="40"></a>
+
+## pdf - <a src="https://inria.hal.science/INRIA/public/HAL_logotype_rvb_fond_clair_fr_1.png" href="https://inria.hal.science/hal-01253169v1/document"> <img src="https://inria.hal.science/INRIA/public/HAL_logotype_rvb_fond_clair_fr_1.png" alt="hal" width="241" height="124"></a>
 
 MATLAB code for the Variational EM algorithm for Source Separation via `non-factorised` full-rank PSD (NMF applies in the Bayesian prior) via Inverse-Gamma priors from the paper:
 
